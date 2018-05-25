@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.Input-container{
+  padding: 20px;
+}
+.Input-container > input{
+  padding: 5px;
+  width: 45%;
+}
+.Input-container > span{
+  text-align: center;
+  padding: 4px 15px 6px 15px;
+  width: 5%;
+  color: #fff;
+  background: #222;
+
+}
+.errorMessage{
+  color: red;
+}
